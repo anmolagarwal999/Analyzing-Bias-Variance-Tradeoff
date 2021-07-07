@@ -1,10 +1,12 @@
-# REPORT ML (SHARED) final
+# Report on Bias Variance Tradeoff
 
 By:
 
 * Anmol Agarwal 2019101068
 * Raj Maheshwari 2019101039
 
+
+#### The dataset can be found [here](data) 
 **Plot of training data set**
 
 ![plots/image7.png](plots/image7.png)
